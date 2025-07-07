@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://instagram.com/divyansh.singh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyansh.singh07" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/divyansh200503" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyansh200503" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@singhdivyanshcoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@singhdivyanshcoc" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/divyansh20503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divyansh20503" height="30" width="40" /></a>
 </p>
 
